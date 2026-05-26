@@ -1,0 +1,94 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 20:46:22
+================================================================
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:19:09
+================================================================
+[21:21:29] txAdmin: Logger started
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:28:22
+================================================================
+[21:28:27] txAdmin: Logger started
+[21:29:35] [Hrqhz#1] TREKFLAX: joined with identifiers [license:8349…6822, discord:7265…2077, fivem:13748322, license2:07c2…3b90]
+[21:32:24] [Hrqhz#1] TREKFLAX: turned show player IDs on
+[21:32:30] [Hrqhz#1] TREKFLAX: enabled noclip
+[21:32:31] [Hrqhz#1] TREKFLAX: became mortal (standard mode)
+[21:32:39] [Hrqhz#1] TREKFLAX: spawned a vehicle (model: sanchez)
+[21:32:48] [Hrqhz#1] TREKFLAX: made a server-wide announcement: HOLA
+[21:32:48] txAdmin: ((Broadcast) GRINMORD): said "HOLA"
+[21:38:46] [Hrqhz#1] TREKFLAX: disconnected (Exiting)
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:43:17
+================================================================
+[21:43:30] txAdmin: Logger started
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:45:05
+================================================================
+[21:45:27] txAdmin: Logger started
+[21:45:41] [dKCeT#1] TREKFLAX: joined with identifiers [license:8349…6822, discord:7265…2077, fivem:13748322, license2:07c2…3b90]
+[21:50:21] [dKCeT#1] TREKFLAX: cleared an area with 300m radius
+[21:50:32] [dKCeT#1] TREKFLAX: teleported to a waypoint
+[21:50:48] [dKCeT#1] TREKFLAX: enabled noclip
+[21:50:55] [dKCeT#1] TREKFLAX: became mortal (standard mode)
+[21:51:30] [dKCeT#1] TREKFLAX: enabled noclip
+[21:51:35] [dKCeT#1] TREKFLAX: became mortal (standard mode)
+[21:51:38] [dKCeT#1] TREKFLAX: enabled noclip
+[21:51:39] [dKCeT#1] TREKFLAX: became mortal (standard mode)
+[21:51:40] [dKCeT#1] TREKFLAX: enabled noclip
+[21:51:42] [dKCeT#1] TREKFLAX: became mortal (standard mode)
+[21:51:51] [dKCeT#1] TREKFLAX: enabled noclip
+[21:51:51] [dKCeT#1] TREKFLAX: became mortal (standard mode)
+[21:52:36] [dKCeT#1] TREKFLAX: teleported to a waypoint
+[21:52:50] [dKCeT#1] TREKFLAX: disconnected (Exiting)
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 22:02:36
+================================================================
+[22:02:53] txAdmin: Logger started
+[22:03:24] [nDNdM#1] TREKFLAX: joined with identifiers [license:8349…6822, discord:7265…2077, fivem:13748322, license2:07c2…3b90]
+[22:06:16] [nDNdM#1] TREKFLAX: said "/dçadd_ace group.admin mapper.admin allow"
+[22:08:34] txAdmin: ((DM) GRINMORD): said "klk"
+[22:08:44] txAdmin: ((DM) GRINMORD): said "w"
+[22:12:51] txAdmin: Logger started
+[22:13:47] [FbCth#1] TREKFLAX: joined with identifiers [license:8349…6822, discord:7265…2077, fivem:13748322, license2:07c2…3b90]
+[22:20:00] [FbCth#1] TREKFLAX: said "/local modelHash = ensureModel(editor.model)if not modelHash then"
+[22:20:37] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 5 minutos."
+[22:21:36] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 4 minutos."
+[22:22:36] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 3 minutos."
+[22:23:37] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 2 minutos."
+[22:24:07] [FbCth#1] TREKFLAX: teleported to a waypoint
+[22:24:15] [FbCth#1] TREKFLAX: enabled noclip
+[22:24:16] [FbCth#1] TREKFLAX: became mortal (standard mode)
+[22:24:24] [FbCth#1] TREKFLAX: enabled noclip
+[22:24:25] [FbCth#1] TREKFLAX: became mortal (standard mode)
+[22:24:36] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 1 minutos. Por favor desconéctense."
+[22:26:09] txAdmin: Logger started
+[22:27:08] txAdmin: Logger started
+[22:28:03] [PHKRH#1] TREKFLAX: joined with identifiers [license:8349…6822, discord:7265…2077, fivem:13748322, license2:07c2…3b90]
+[22:39:01] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 5 minutos."
+[22:39:37] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 5 minutos."
+[22:40:37] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 4 minutos."
+[22:41:36] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 3 minutos."
+[22:42:36] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 2 minutos."
+[22:52:53] txAdmin: ((DM) GRINMORD): said "a"
+[22:52:55] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:52:55] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:52:55] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:52:56] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:53:03] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:53:15] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:53:17] [PHKRH#1] TREKFLAX: caused an explosion (CAR)
+[22:54:48] [PHKRH#1] TREKFLAX: said "/add_ace group.admin mapper.admin allow"
+[22:54:56] [PHKRH#1] TREKFLAX: said "/add "
+[22:55:01] [PHKRH#1] TREKFLAX: said "/add_ace group.admin mapper.admin allow"
+[22:56:07] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 5 minutos."
+[22:56:37] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 5 minutos."
+[22:57:48] [PHKRH#1] TREKFLAX: cleared an area with 300m radius
+[22:57:57] [PHKRH#1] TREKFLAX: said "/enseure all"
+[22:58:07] [PHKRH#1] TREKFLAX: enabled noclip
+[22:58:26] [PHKRH#1] TREKFLAX: became mortal (standard mode)
+[22:58:59] [PHKRH#1] TREKFLAX: died from suicide (Pistol)
+[22:59:20] [PHKRH#1] TREKFLAX: died from suicide
+[22:59:59] [PHKRH#1] TREKFLAX: healed all players!
+[23:00:34] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 2 minutos."
+[23:00:37] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 2 minutos."
+[23:01:38] txAdmin: ((Broadcast) txAdmin): said "El servidor se va a reiniciar en 1 minutos. Por favor desconéctense."
