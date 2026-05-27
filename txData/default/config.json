@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "server": {
-    "dataPath": "D:/txData/ESXLegacy_160052.base/"
-  },
   "general": {
     "serverName": "mapper",
     "language": "es"
+  },
+  "server": {
+    "dataPath": "C:/FIVEM/txData/ESXLegacy_1778F3.base/"
   }
 }

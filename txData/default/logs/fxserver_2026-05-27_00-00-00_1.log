@@ -1,0 +1,2586 @@
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [4288] FXServer Starting - 26/5/2026 21:21:14          
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 77 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[  script:es_extended] [INFO] Running migrations for ESX version v1.13.5
+[  script:es_extended] [esx_migration:v1.13.5:jobTypes] Adding job type column to jobs table.
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 1071 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[  script:es_extended] [esx_migration:v1.13.5:jobTypes] Column already exists, migration not needed.
+[  script:es_extended] [SUCCESS] Successfully completed migrations for ESX version v1.13.5
+[  script:es_extended] [INFO] Running migrations for ESX version v1.13.3
+[  script:es_extended] [esx_migration:v.1.13.3:ssn] Adding SSN column to users table.
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_addoninventory took 242.7474ms to execute a query!
+[      script:oxmysql] SELECT * FROM items []
+[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_boat took 244.6222ms to execute a query!
+[      script:oxmysql] UPDATE owned_vehicles SET `stored` = true WHERE `stored` = false AND type = ? ["boat"]
+[      script:oxmysql] [10.4.32-MariaDB] es_extended took 248.4507ms to execute a query!
+[      script:oxmysql]     SELECT COUNT(*)
+[      script:oxmysql]     FROM INFORMATION_SCHEMA.COLUMNS
+[      script:oxmysql]     WHERE TABLE_SCHEMA = DATABASE()
+[      script:oxmysql]       AND TABLE_NAME = 'users'
+[      script:oxmysql]       AND COLUMN_NAME = 'ssn'
+[      script:oxmysql]  []
+[      script:oxmysql] [10.4.32-MariaDB] esx_multicharacter took 249.3900ms to execute a query!
+[      script:oxmysql] SELECT TABLE_NAME, COLUMN_NAME, CHARACTER_MAXIMUM_LENGTH FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = "ESXLegacy_160052" AND DATA_TYPE = "varchar" AND COLUMN_NAME IN (?) [["identifier","owner"]]
+[      script:oxmysql] [10.4.32-MariaDB] esx_datastore took 253.2598ms to execute a query!
+[      script:oxmysql] SELECT * FROM datastore_data LEFT JOIN datastore ON datastore_data.name = datastore.name UNION SELECT * FROM datastore_data RIGHT JOIN datastore ON datastore_data.name = datastore.name []
+[      script:oxmysql] [10.4.32-MariaDB] esx_vehicleshop took 233.1970ms to execute a query!
+[      script:oxmysql] SELECT vehicles.*, vehicle_categories.label AS categoryLabel FROM vehicles JOIN vehicle_categories ON vehicles.category = vehicle_categories.name []
+[      script:oxmysql] [10.4.32-MariaDB] esx_hud took 238.0174ms to execute a query!
+[      script:oxmysql] ALTER TABLE owned_vehicles ADD COLUMN `mileage` FLOAT(10) DEFAULT 0;  []
+[      script:oxmysql] [10.4.32-MariaDB] esx_addonaccount took 366.8329ms to execute a query!
+[      script:oxmysql] INSERT INTO addon_account_data (account_name, money) VALUES (?, ?) ["society_banker",0]
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[  script:es_extended] [esx_migration:v.1.13.3:ssn] No users found without SSN, migration not needed.
+[  script:es_extended] [SUCCESS] Successfully completed migrations for ESX version v1.13.3
+[script:esx_multichar] [INFO] Updated 1 columns to use VARCHAR(46)
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [3032] FXServer Starting - 26/5/2026 21:28:23          
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 258 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 433 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 247 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 2208 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] server thread hitch warning: timer interval of 2346 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 646 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 786 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 288 milliseconds
+║             TXADMIN║ txaReportResources 
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+║            GRINMORD║ ensure "fallen-mapper"
+║             TXADMIN║ txaReportResources 
+[    c-scripting-core] Creating script environments for fallen-mapper
+[           resources] Started resource fallen-mapper
+[ citizen-server-impl] server thread hitch warning: timer interval of 826 milliseconds
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 269 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[  script:es_extended] [INFO] Player 1 Has been granted admin permissions via Ace Perms.
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+║             TXADMIN║ txaEvent "announcement" "{\"message\":\"HOLA\",\"author\":\"GRINMORD\"}"
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+║            GRINMORD║ ensure fallen-mapper
+[           resources] Stopping resource fallen-mapper
+[    c-scripting-core] Creating script environments for fallen-mapper
+[           resources] Started resource fallen-mapper
+[ citizen-server-impl] server thread hitch warning: timer interval of 319 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 288 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 248 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 256 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 197 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [6992] FXServer Starting - 26/5/2026 21:43:17          
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 277 milliseconds
+[      script:oxmysql] Unable to establish a connection to the database (ECONNREFUSED)!
+[      script:oxmysql] Error: 
+[      script:oxmysql] See https://github.com/overextended/oxmysql/issues/154 for more information.
+[      script:oxmysql] {
+[      script:oxmysql]   "connectTimeout": 60000,
+[      script:oxmysql]   "trace": false,
+[      script:oxmysql]   "supportBigNumbers": true,
+[      script:oxmysql]   "jsonStrings": true,
+[      script:oxmysql]   "user": "root",
+[      script:oxmysql]   "host": "localhost",
+[      script:oxmysql]   "port": null,
+[      script:oxmysql]   "database": "ESXLegacy_160052",
+[      script:oxmysql]   "charset": "utf8mb4",
+[      script:oxmysql]   "namedPlaceholders": false,
+[      script:oxmysql]   "flags": [
+[      script:oxmysql]     "CONNECT_WITH_DB"
+[      script:oxmysql]   ]
+[      script:oxmysql] }
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[      script:oxmysql] Unable to establish a connection to the database (ECONNREFUSED)!
+[      script:oxmysql] Error: 
+[      script:oxmysql] See https://github.com/overextended/oxmysql/issues/154 for more information.
+[      script:oxmysql] {
+[      script:oxmysql]   "connectTimeout": 60000,
+[      script:oxmysql]   "trace": false,
+[      script:oxmysql]   "supportBigNumbers": true,
+[      script:oxmysql]   "jsonStrings": true,
+[      script:oxmysql]   "user": "root",
+[      script:oxmysql]   "host": "localhost",
+[      script:oxmysql]   "port": null,
+[      script:oxmysql]   "database": "ESXLegacy_160052",
+[      script:oxmysql]   "charset": "utf8mb4",
+[      script:oxmysql]   "namedPlaceholders": false,
+[      script:oxmysql]   "flags": [
+[      script:oxmysql]     "CONNECT_WITH_DB"
+[      script:oxmysql]   ]
+[      script:oxmysql] }
+[ citizen-server-impl] sync thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 194 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 252 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[      script:oxmysql] Unable to establish a connection to the database (ECONNREFUSED)!
+[      script:oxmysql] Error: 
+[      script:oxmysql] See https://github.com/overextended/oxmysql/issues/154 for more information.
+[      script:oxmysql] {
+[      script:oxmysql]   "connectTimeout": 60000,
+[      script:oxmysql]   "trace": false,
+[      script:oxmysql]   "supportBigNumbers": true,
+[      script:oxmysql]   "jsonStrings": true,
+[      script:oxmysql]   "user": "root",
+[      script:oxmysql]   "host": "localhost",
+[      script:oxmysql]   "port": null,
+[      script:oxmysql]   "database": "ESXLegacy_160052",
+[      script:oxmysql]   "charset": "utf8mb4",
+[      script:oxmysql]   "namedPlaceholders": false,
+[      script:oxmysql]   "flags": [
+[      script:oxmysql]     "CONNECT_WITH_DB"
+[      script:oxmysql]   ]
+[      script:oxmysql] }
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] sync thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 213 milliseconds
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [22244] FXServer Starting - 26/5/2026 21:45:07         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[ citizen-server-impl] network thread hitch warning: timer interval of 156 milliseconds
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 330 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[38;5;73m[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] server thread hitch warning: timer interval of 264 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 216 milliseconds
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] network thread hitch warning: timer interval of 953 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 5978 milliseconds
+║            GRINMORD║ ensure fallen-mapper
+[           resources] Stopping resource fallen-mapper
+[    c-scripting-core] Creating script environments for fallen-mapper
+[           resources] Started resource fallen-mapper
+[ citizen-server-impl] server thread hitch warning: timer interval of 215 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 194 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 197 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 349 milliseconds
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+[ citizen-server-impl] sync thread hitch warning: timer interval of 670 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 150 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [22136] FXServer Starting - 26/5/2026 22:02:38         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 300 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║            GRINMORD║ add_ace group.admin mapper.admin allow
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 1811 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║            GRINMORD║ add_ace group.admin mapper.admin allow
+║            GRINMORD║ ensure mapper_editor
+[           resources] Stopping resource mapper_editor
+[    c-scripting-core] Creating script environments for mapper_editor
+[           resources] Started resource mapper_editor
+[ citizen-server-impl] server thread hitch warning: timer interval of 228 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+║             TXADMIN║ txaEvent "playerDirectMessage" "{\"target\":1,\"author\":\"GRINMORD\",\"message\":\"klk\"}"
+║             TXADMIN║ txaEvent "playerDirectMessage" "{\"target\":1,\"author\":\"GRINMORD\",\"message\":\"w\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": read tcp 10.0.16.160:53418->79.116.128.51:30120: read: connection reset by peer (Client.Timeout exceeded while awaiting headers))
+║             TXADMIN║ setr "txAdmin-locale" "es"
+║             TXADMIN║ set "txAdmin-serverName" "mapper"
+║             TXADMIN║ set "txAdmin-checkPlayerJoin" "true"
+║             TXADMIN║ set "txAdmin-menuAlignRight" "false"
+║             TXADMIN║ set "txAdmin-menuPageKey" "Tab"
+║             TXADMIN║ set "txAdmin-playerModePtfx" "true"
+║             TXADMIN║ set "txAdmin-hideAdminInPunishments" "true"
+║             TXADMIN║ set "txAdmin-hideAdminInMessages" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultAnnouncement" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultDirectMessage" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultWarning" "false"
+║             TXADMIN║ set "txAdmin-hideDefaultScheduledRestartWarning" "false"
+║             TXADMIN║ txaEvent "configChanged" "{}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 234 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 301 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"GRINMORD\",\"message\":\"Reiniciando Servidor (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 210 milliseconds
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [3744] FXServer Starting - 26/5/2026 22:12:13          
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[    c-scripting-core] Creating script environments for monitor
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] sync thread hitch warning: timer interval of 166 milliseconds
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 2816 milliseconds
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl] server thread hitch warning: timer interval of 400 milliseconds
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl] server thread hitch warning: timer interval of 500 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_datastore took 402.1329ms to execute a query!
+[      script:oxmysql] SELECT * FROM datastore_data LEFT JOIN datastore ON datastore_data.name = datastore.name UNION SELECT * FROM datastore_data RIGHT JOIN datastore ON datastore_data.name = datastore.name []
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_boat took 263.5431ms to execute a query!
+[      script:oxmysql] UPDATE owned_vehicles SET `stored` = true WHERE `stored` = false AND type = ? ["boat"]
+[ citizen-server-impl] server thread hitch warning: timer interval of 262 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] es_extended took 305.3097ms to execute a query!
+[      script:oxmysql] SELECT * FROM jobs []
+[      script:oxmysql] [10.4.32-MariaDB] esx_license took 327.1238ms to execute a query!
+[      script:oxmysql] SELECT type, label FROM licenses []
+[      script:oxmysql] [10.4.32-MariaDB] esx_vehicleshop took 349.8900ms to execute a query!
+[      script:oxmysql] SELECT * FROM vehicle_categories []
+[      script:oxmysql] [10.4.32-MariaDB] esx_banking took 342.0385ms to execute a query!
+[      script:oxmysql] DELETE FROM banking WHERE time < ?  [1774570483000]
+[      script:oxmysql] [10.4.32-MariaDB] esx_addoninventory took 341.0794ms to execute a query!
+[      script:oxmysql] SELECT * FROM items []
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[      script:oxmysql] [10.4.32-MariaDB] esx_multicharacter took 417.5823ms to execute a query!
+[      script:oxmysql] SELECT TABLE_NAME, COLUMN_NAME, CHARACTER_MAXIMUM_LENGTH FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = "ESXLegacy_160052" AND DATA_TYPE = "varchar" AND COLUMN_NAME IN (?) [["identifier","owner"]]
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 143 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 247 milliseconds
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 3722 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 368 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 228 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 253 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 214 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 423 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 139 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 130 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":300,\"translatedMessage\":\"El servidor se va a reiniciar en 5 minutos.\"}"
+[ citizen-server-impl] sync thread hitch warning: timer interval of 267 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 299 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 261 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 277 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":240,\"translatedMessage\":\"El servidor se va a reiniciar en 4 minutos.\"}"
+[ citizen-server-impl] sync thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 239 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 256 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 256 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 309 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 289 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 262 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 289 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":180,\"translatedMessage\":\"El servidor se va a reiniciar en 3 minutos.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 148 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 209 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 289 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":120,\"translatedMessage\":\"El servidor se va a reiniciar en 2 minutos.\"}"
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":60,\"translatedMessage\":\"El servidor se va a reiniciar en 1 minutos. Por favor desconéctense.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+║             TXADMIN║ Restarting server: scheduled restart at 22:25
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"txAdmin\",\"message\":\"Reiniciando Servidor (Reinicio programado a las 22:25).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [21120] FXServer Starting - 26/5/2026 22:25:41         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] sync thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 184 milliseconds
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[ citizen-server-impl] sync thread hitch warning: timer interval of 187 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 206 milliseconds
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[ citizen-server-impl] sync thread hitch warning: timer interval of 297 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 201 milliseconds
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 160 milliseconds
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[ citizen-server-impl] sync thread hitch warning: timer interval of 134 milliseconds
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 563 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_addonaccount took 266.6439ms to execute a query!
+[      script:oxmysql] SELECT * FROM addon_account LEFT JOIN addon_account_data ON addon_account.name = addon_account_data.account_name UNION SELECT * FROM addon_account RIGHT JOIN addon_account_data ON addon_account.name = addon_account_data.account_name []
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_multicharacter took 264.7426ms to execute a query!
+[      script:oxmysql] SELECT TABLE_NAME, COLUMN_NAME, CHARACTER_MAXIMUM_LENGTH FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = "ESXLegacy_160052" AND DATA_TYPE = "varchar" AND COLUMN_NAME IN (?) [["identifier","owner"]]
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"GRINMORD\",\"message\":\"Reiniciando Servidor (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [22556] FXServer Starting - 26/5/2026 22:27:04         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] server thread hitch warning: timer interval of 215 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 254 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 427 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 1643 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 298 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 238 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 350 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 269 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 418 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":300,\"translatedMessage\":\"El servidor se va a reiniciar en 5 minutos.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 301 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":300,\"translatedMessage\":\"El servidor se va a reiniciar en 5 minutos.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 546 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 272 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":240,\"translatedMessage\":\"El servidor se va a reiniciar en 4 minutos.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 277 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 348 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 246 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":180,\"translatedMessage\":\"El servidor se va a reiniciar en 3 minutos.\"}"
+[ citizen-server-impl] sync thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 441 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 192 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 193 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":120,\"translatedMessage\":\"El servidor se va a reiniciar en 2 minutos.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 237 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestartSkipped" "{\"secondsRemaining\":42,\"temporary\":true,\"author\":\"GRINMORD\"}"
+║             TXADMIN║ txaEvent "skippedNextScheduledRestart" "{\"secondsRemaining\":42,\"temporary\":true}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 300 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": read tcp 10.0.16.159:39518->79.116.128.51:30120: read: connection reset by peer)
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 194 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 247 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 273 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 175 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 206 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 251 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 315 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 247 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 252 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 259 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 260 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 261 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 273 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 238 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 210 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 304 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 274 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 219 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 214 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 300 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 326 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 291 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 385 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] server thread hitch warning: timer interval of 276 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 494 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 208 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/info.json (Get "https://79.116.128.51:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 218 milliseconds
+║             TXADMIN║ txaEvent "playerDirectMessage" "{\"target\":1,\"author\":\"GRINMORD\",\"message\":\"a\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[script:mapper_editor] [mapper_editor] TREKFLAX intentó colocar sin permiso.
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 227 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+║            GRINMORD║ add_ace group.admin mapper.admin allow
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/dynamic.json (Get "https://79.116.128.51:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":300,\"translatedMessage\":\"El servidor se va a reiniciar en 5 minutos.\"}"
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":300,\"translatedMessage\":\"El servidor se va a reiniciar en 5 minutos.\"}"
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+║             TXADMIN║ txaEvent "scheduledRestartSkipped" "{\"secondsRemaining\":210,\"temporary\":true,\"author\":\"GRINMORD\"}"
+║             TXADMIN║ txaEvent "skippedNextScheduledRestart" "{\"secondsRemaining\":210,\"temporary\":true}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 1291 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 460 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 413 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 699 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 215 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 167 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 371 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 174 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 293 milliseconds
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[script:mapper_editor] SCRIPT ERROR: @mapper_editor/server/main.lua:122: attempt to call a nil value (global 'SetEntityAsMissionEntity')
+[script:mapper_editor] > spawnPlacement (@mapper_editor/server/main.lua:122)
+[script:mapper_editor] > handler (@mapper_editor/server/main.lua:194)
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":120,\"translatedMessage\":\"El servidor se va a reiniciar en 2 minutos.\"}"
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":120,\"translatedMessage\":\"El servidor se va a reiniciar en 2 minutos.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 250 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.128.51:30120/players.json (Get "https://79.116.128.51:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+║             TXADMIN║ txaEvent "scheduledRestart" "{\"secondsRemaining\":60,\"translatedMessage\":\"El servidor se va a reiniciar en 1 minutos. Por favor desconéctense.\"}"
+[ citizen-server-impl] server thread hitch warning: timer interval of 501 milliseconds
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 166 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+║             TXADMIN║ Restarting server: scheduled restart at 23:02
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"txAdmin\",\"message\":\"Reiniciando Servidor (Reinicio programado a las 23:02).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+[ citizen-server-impl] server thread hitch warning: timer interval of 692 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 253 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] es_extended took 555.7253ms to execute a query!
+[      script:oxmysql] UPDATE `users` SET `accounts` = ?, `job` = ?, `job_grade` = ?, `group` = ?, `position` = ?, `inventory` = ?, `loadout` = ?, `metadata` = ? WHERE `identifier` = ? ["{\"black_money\":0,\"bank\":40689,\"money\":10051}","unemployed",0,"admin","{\"x\":89.55165100097656,\"heading\":0.0,\"z\":20.8212890625,\"y\":-1914.5406494140626}","[]","{\"WEAPON_PISTOL\":{\"ammo\":19},\"WEAPON_STUNGUN\":{\"ammo\":42}}","{\"lastPlaytime\":4322,\"armor\":0,\"jobDuty\":false,\"health\":200}","char1:8349795b2fabe8602f8117cf8d115cf6d0b76822"]
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 220 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_status took 774.9391ms to execute a query!
+[      script:oxmysql] UPDATE users SET status = ? WHERE identifier = ? ["[{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":984600,\"percent\":98.46000000000001},{\"name\":\"thirst\",\"val\":988450,\"percent\":98.845}]","char1:8349795b2fabe8602f8117cf8d115cf6d0b76822"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 799 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] es_extended took 1021.7266ms to execute a query!
+[      script:oxmysql] UPDATE `users` SET `accounts` = ?, `job` = ?, `job_grade` = ?, `group` = ?, `position` = ?, `inventory` = ?, `loadout` = ?, `metadata` = ? WHERE `identifier` = ? ["{\"black_money\":0,\"bank\":40689,\"money\":10051}","unemployed",0,"admin","{\"x\":89.55165100097656,\"heading\":0.0,\"z\":20.8212890625,\"y\":-1914.5406494140626}","[]","{\"WEAPON_PISTOL\":{\"ammo\":19},\"WEAPON_STUNGUN\":{\"ammo\":42}}","{\"lastPlaytime\":4322,\"armor\":0,\"jobDuty\":false,\"health\":200}","char1:8349795b2fabe8602f8117cf8d115cf6d0b76822"]
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+[ citizen-server-impl] server thread hitch warning: timer interval of 585 milliseconds
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [21068] FXServer Starting - 26/5/2026 23:02:44         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 284 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[           resources] Started resource monitor
+[ citizen-server-impl] sync thread hitch warning: timer interval of 380 milliseconds
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+║             TXADMIN║ Restarting server: Server process close detected.
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [18904] FXServer Starting - 27/5/2026 23:39:48         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 286 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-7b9da4b.users.cfx.re/
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[script:esx_multichar] [INFO] Updated 1 columns to use VARCHAR(46)
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.133.8:30120/dynamic.json (Get "https://79.116.133.8:30120/dynamic.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[  script:es_extended] [INFO] Player 1 Has been granted admin permissions via Ace Perms.
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"GRINMORD\",\"message\":\"Reiniciando Servidor (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [8532] FXServer Starting - 27/5/2026 23:44:38          
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] Started resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 200 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.133.8:30120/players.json (Get "https://79.116.133.8:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] server thread hitch warning: timer interval of 1342 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.133.8:30120/players.json (Get "https://79.116.133.8:30120/players.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 267 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 219 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 229 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 462 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.133.8:30120/info.json (Get "https://79.116.133.8:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 150 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 300 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+║             TXADMIN║ txaEvent "serverShuttingDown" "{\"delay\":5000,\"author\":\"GRINMORD\",\"message\":\"Reiniciando Servidor (admin request).\"}"
+[      script:monitor] [txAdmin] Server shutting down. Kicking all players.
+[  script:es_extended] [INFO] Saved player "Mapper Trekflax"
+[  script:es_extended] [INFO] Saved 1 player over 0.0 ms
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 318 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 165 milliseconds
+
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [18064] FXServer Starting - 27/5/2026 23:54:32         
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[           resources] Found 78 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 152 milliseconds
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[ citizen-server-impl] network thread hitch warning: timer interval of 224 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 333 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 263 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 238 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 308 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 232 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 503 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 496 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[           resources] Started resource es_extended
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_inventory
+[           resources] Started resource esx_inventory
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] Started resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] Started resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] Creating script environments for esx_addoninventory
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] Started resource esx_dmvschool
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[           resources] Started resource esx_society
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 188 milliseconds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] Started resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[ citizen-server-impl] server thread hitch warning: timer interval of 629 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[      script:esx_hud] [INFO] esx_hud: Checking manifest from https://raw.githubusercontent.com/esx-framework/ESX-Legacy-Addons/main/%5Besx_addons%5D/esx_hud/fxmanifest.lua
+[      script:esx_hud] [INFO] esx_hud: Latest version: 1.13.4
+[      script:esx_hud] [INFO] esx_hud: Your version: 1.10.2
+[      script:esx_hud] [INFO] esx_hud: Update available: remote 1.13.4 > local 1.10.2
+[      script:esx_hud] [INFO] esx_hud: You need download latest version! You are using an old version at the moment!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://grinmord-j4rko3a.users.cfx.re/
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_datastore took 339.4388ms to execute a query!
+[      script:oxmysql] SELECT * FROM datastore_data LEFT JOIN datastore ON datastore_data.name = datastore.name UNION SELECT * FROM datastore_data RIGHT JOIN datastore ON datastore_data.name = datastore.name []
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 222 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] es_extended took 497.7674ms to execute a query!
+[      script:oxmysql] SELECT * FROM items []
+[ citizen-server-impl] server thread hitch warning: timer interval of 399 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_hud took 648.3780ms to execute a query!
+[      script:oxmysql] SELECT mileage FROM owned_vehicles []
+[      script:oxmysql] [10.4.32-MariaDB] esx_banking took 653.1510ms to execute a query!
+[      script:oxmysql] DELETE FROM banking WHERE time < ?  [1774663004000]
+[      script:oxmysql] [10.4.32-MariaDB] esx_vehicleshop took 657.8448ms to execute a query!
+[      script:oxmysql] SELECT * FROM vehicle_categories []
+[      script:oxmysql] [10.4.32-MariaDB] esx_boat took 367.1105ms to execute a query!
+[      script:oxmysql] UPDATE owned_vehicles SET `stored` = true WHERE `stored` = false AND type = ? ["boat"]
+[      script:oxmysql] [10.4.32-MariaDB] esx_addoninventory took 425.2924ms to execute a query!
+[      script:oxmysql] SELECT * FROM items []
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] es_extended took 220.1251ms to execute a query!
+[      script:oxmysql] SELECT * FROM jobs []
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] esx_license took 227.0570ms to execute a query!
+[      script:oxmysql] SELECT type, label FROM licenses []
+[      script:oxmysql] [10.4.32-MariaDB] esx_multicharacter took 598.6187ms to execute a query!
+[      script:oxmysql] SELECT TABLE_NAME, COLUMN_NAME, CHARACTER_MAXIMUM_LENGTH FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA = "ESXLegacy_160052" AND DATA_TYPE = "varchar" AND COLUMN_NAME IN (?) [["identifier","owner"]]
+[  script:es_extended] [INFO] ESX Legacy 1.13.5 initialized!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 139 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[    script:pma-voice] [WARNING] It's recommended to have 'voice_useSendingRangeOnly' set to false, you can do that with 'setr voice_useSendingRangeOnly false', this makes clients ignore the position information sent from the client.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 269 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 226 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 217 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 309 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 294 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 275 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 277 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 395 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 432 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 167 milliseconds
+[      script:hardcap] Connecting: TREKFLAX
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 127 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 245 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 235 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 239 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 150 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.133.8:30120/info.json (Get "https://79.116.133.8:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[  script:es_extended] [INFO] Player "Mapper Trekflax" has connected to the server. ID: 1
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 342 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 384 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 266 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 236 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] Server list query returned an error: server request failed: server request failed for endpoint https://79.116.133.8:30120/info.json (Get "https://79.116.133.8:30120/info.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers))

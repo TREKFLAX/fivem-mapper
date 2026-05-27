@@ -1,55 +1,25 @@
 ================================================================
-======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 20:46:22
-================================================================
-[20:47:19][GRINMORD] created admins file
-[20:48:13][GRINMORD] Config changes: 
-[20:48:13][GRINMORD] Changing global settings via setup stepper and started Deployer.
-[20:48:20][GRINMORD] Setting recipe.
-================================================================
-======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:19:09
-================================================================
-[21:19:22][GRINMORD] logged in from 127.0.0.1 via cfxre
-[21:19:32][GRINMORD] Config changes: 
-[21:19:32][GRINMORD] Changing global settings via setup stepper and started Deployer.
-[21:19:34][GRINMORD] Setting recipe.
-[21:19:44][GRINMORD] Running recipe.
-[21:21:14][GRINMORD] Config changes: server.dataPath
-[21:21:14][GRINMORD] Completed and committed server deploy.
-================================================================
-======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:28:22
-================================================================
-[21:29:09][GRINMORD] logged in from 127.0.0.1 via cfxre
-[21:29:50][GRINMORD] Ensured resource "fallen-mapper"
-[21:32:48][GRINMORD] Sending announcement: HOLA
-[21:33:22][GRINMORD] [GRINMORD] executed "ensure fallen-mapper"
-================================================================
-======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:43:17
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 28/5/2026 0:02:57
 ================================================================
 ================================================================
-======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 21:45:05
+======== Log Rotated - 28/5/2026 0:02:57                        
 ================================================================
-[21:45:14][GRINMORD] logged in from 127.0.0.1 via cfxre
-[21:48:34][GRINMORD] [GRINMORD] executed "ensure fallen-mapper"
+[00:03:08][GRINMORD] logged in from 127.0.0.1 via cfxre
+[00:03:17][GRINMORD] [GRINMORD] executed "STOP SERVER"
+[00:03:17][GRINMORD] Config changes: server.dataPath
+[00:03:17][GRINMORD] Resetting server data settings.
+[00:03:40][GRINMORD] Config changes: 
+[00:03:40][GRINMORD] Changing global settings via setup stepper and started Deployer.
+[00:03:43][GRINMORD] Setting recipe.
+[00:03:57][GRINMORD] Running recipe.
 ================================================================
-======== txAdmin v8.0.1 atop fxserver 25770 Starting - 26/5/2026 22:02:36
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 28/5/2026 0:06:03
 ================================================================
-[22:03:49][GRINMORD] logged in from 127.0.0.1 via cfxre
-[22:04:04][GRINMORD] [GRINMORD] executed "add_ace group.admin mapper.admin allow"
-[22:07:09][GRINMORD] [GRINMORD] executed "add_ace group.admin mapper.admin allow"
-[22:07:27][GRINMORD] [GRINMORD] executed "ensure mapper_editor"
-[22:08:33][GRINMORD] DM to "TREKFLAX": klk
-[22:08:44][GRINMORD] DM to "TREKFLAX": w
-[22:09:42][GRINMORD] Config changes: general.serverName, general.language
-[22:12:08][GRINMORD] [GRINMORD] executed "RESTART SERVER"
-[22:20:37][GRINMORD] Scheduling server restart at +5
-[22:25:36][SCHEDULER] Restarting server: scheduled restart at 22:25
-[22:26:58][GRINMORD] [GRINMORD] executed "RESTART SERVER"
-[22:39:01][GRINMORD] Scheduling server restart at +5
-[22:43:17][GRINMORD] Cancelling next scheduled restart.
-[22:52:52][GRINMORD] DM to "TREKFLAX": a
-[22:55:14][GRINMORD] [GRINMORD] executed "add_ace group.admin mapper.admin allow"
-[22:56:07][GRINMORD] Scheduling server restart at +5
-[22:57:29][GRINMORD] Cancelling next scheduled restart.
-[23:00:33][GRINMORD] Scheduling server restart at +2
-[23:02:37][SCHEDULER] Restarting server: scheduled restart at 23:02
-[23:03:10][MONITOR] Restarting server: Server process close detected.
+[00:06:08][GRINMORD] logged in from 127.0.0.1 via cfxre
+[00:06:31][GRINMORD] Config changes: 
+[00:06:31][GRINMORD] Changing global settings via setup stepper and started Deployer.
+[00:06:35][GRINMORD] Setting recipe.
+[00:06:45][GRINMORD] Running recipe.
+[00:07:47][GRINMORD] Config changes: server.dataPath
+[00:07:47][GRINMORD] Completed and committed server deploy.
+[00:07:56][GRINMORD] [GRINMORD] executed "RESTART SERVER"
